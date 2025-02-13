@@ -1,0 +1,4 @@
+* teach me binary tree with the help of problems, start from very easy then slowly increase toughness and teach me step by step
+
+* first teach me required theory related to this and explain the questions then tell me the approach of solution then solution
+
