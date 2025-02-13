@@ -2,3 +2,5 @@
 
 * first teach me required theory related to this and explain the questions then tell me the approach of solution then solution
 
+*  start with the basics of a Binary Tree and increase the complexity step by step using problems
+
