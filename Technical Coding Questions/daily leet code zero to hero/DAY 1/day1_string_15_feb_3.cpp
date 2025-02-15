@@ -9,18 +9,9 @@ char mostFrequentChar(const string &s) {
     // Count character frequencies
     for (char c : s) {
         if (c != ' ') { // Ignore spaces
-            freq[c]++;
+            freq[c] += 1;
         }
     }
-
-    for (char c : s){
-        
-    }
-
-
-
-
-
 
     char mostFrequent = '\0';
     int maxCount = 0;
