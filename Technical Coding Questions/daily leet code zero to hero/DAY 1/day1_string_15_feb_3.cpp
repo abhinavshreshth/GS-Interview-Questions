@@ -4,12 +4,17 @@
 using namespace std;
 
 char mostFrequentChar(const string &s) {
-
-    unordered_map<char, int> frequency;
+    unordered_map<char, int> freq;
     
     // Count character frequencies
-    for(char c : s){
-        frequency
+    for (char c : s) {
+        if (c != ' ') { // Ignore spaces
+            freq[c]++;
+        }
+    }
+
+    for (char c : s){
+        
     }
 
 
