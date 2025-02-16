@@ -2,3 +2,4 @@ https://www.designgurus.io/
 https://github.com/donnemartin/system-design-primer
 https://www.techinterviewhandbook.org/software-engineering-interview-guide/
 https://www.techinterviewhandbook.org/grind75/?hours=40&weeks=16
+https://bytebytego.com/courses/system-design-interview/design-youtube -- nice for preparing for system design, will purchase yearly subscription 
